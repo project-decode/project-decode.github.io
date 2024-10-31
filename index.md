@@ -24,12 +24,15 @@ Spatially resolved transcriptomics allows us to resolve gene expression in the n
 
 ### Project focus
 
-The focus of our BioHackathon project will be on investigating, reporting, and improving user guides for imaging-based spatial transcriptomics. The format will be a hackathon with a "bring your own project" setup. Not everyone needs to propose a project, but here are some ideas of things to address:
+The focus of our BioHackathon project will be on investigating, reporting, and improving user guides for imaging-based spatial transcriptomics. The format will be a hackathon with a "bring your own project" setup. Not everyone needs to propose a project, but here are some projects that some people will be bringing with them:
 
- - writing user guides for data deposition
- - collating and unifying steps within data analysis user guides
- - investigating how people deal with normalisation
- - review segmentation-free analysis workflows
+ - user guides for data deposition
+ - spatial trancriptomics data analysis best practices
+ - normalization
+ - (non)uniform gene expression over the tissue area 
+ - segmentation-free analysis
+ - comparison of segmentation algorithms
+ - spatial multi-omics
 
 While the primary aim of the project will be to have fun and meet other spatial researchers, we will endeavour to disseminate our findings. This year we plan to wrap up our progress into a [BioHackRxiv](https://osf.io/preprints/biohackrxiv) white paper.
 
