@@ -33,6 +33,7 @@ The focus of our BioHackathon project will be on investigating, reporting, and i
  - segmentation-free analysis
  - comparison of segmentation algorithms
  - spatial multi-omics clustering
+ - the use of spatial statistics in spatial omics
 
 While the primary aim of the project will be to have fun and meet other spatial researchers, we will endeavour to disseminate our findings. This year we plan to wrap up our progress into a [BioHackRxiv](https://osf.io/preprints/biohackrxiv) white paper.
 
