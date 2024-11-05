@@ -61,13 +61,13 @@ While the primary aim of the project will be to have fun and meet other spatial 
 1.	**Main event, Berlin and online**: [Naveed Ishaque](mailto:naveed.ishaque@bih-charite.de), Berlin Institute of Health at the Charité, Germany. Naveed leads a bioinformatics research group with a strong focus on developing and applying computation methods to better understand spatially resolved transcriptomics data.
 2.	**Memphis**: [Jasmine Plummer](mailto:jasmine.plummer@stjude.org). [Website](https://www.stjude.org/research/labs/plummer-lab.html). Address: [MS 322, St. Jude Children's Research Hospital, 262 Danny Thomas Place, Memphis, TN, 38105-3678 USA](https://www.google.com/maps/place/262+Danny+Thomas+Pl,+Memphis,+TN+38105,+USA/@35.1529335,-90.0457645,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57fa69ea48bd1:0x5fb5b3586b2af13a!8m2!3d35.1529335!4d-90.0431896!16s%2Fg%2F11ldvhnn3g?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D)
 
-**Commercial sponsors**: We are proud to say that 10x, NanoString/Bruker and Vizgen are all contributing data, personnel and financial support to SpaceHack 3.0!
+**Commercial sponsors**: We are proud to say that 10x and Vizgen are all contributing data, personnel and financial support to SpaceHack 3.0!
 
 ### Code of Conduct
 We want the hackathon to be fun, safe and inclusive. Participants are expected to adhere to the [de.NBI Code Of Conduct](https://www.denbi.de/code-of-conduct) and the [BIH DEI statement](https://www.bihealth.org/en/about-us/gutes-miteinander/mission-statement).
 
 We will continue to update this website until the start of the hackathon
 
-![image](https://github.com/user-attachments/assets/9790202e-e4b9-4576-bd5f-6171459a4a21)
+![image](https://github.com/user-attachments/assets/3ef9eda9-185c-48d9-bda6-bc9a19b444e8)
 
 
