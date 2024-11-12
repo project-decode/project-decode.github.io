@@ -56,9 +56,9 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 18:00-18:15 Talk - The European Society for Spatial Biology | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*[Denis Schapiro](https://www.schapirolab.com/), Heidelberg University Hospital* <br>
-18:15-19:00 *Free time* <br>
-19:00-20:00	sponsored evening event activity, TBC <br>
+*<a href="https://www.schapirolab.com/">Denis Schapiro</a>, Heidelberg University Hospital* <br>
+18:15-19:00 *Free time* or straight to the evening event <br>
+19:00-20:00	sponsored evening event activity, <a href="https://www.computerspielemuseum.de/">Berlin Computergames Museum</a> (travel to U-Weberwiese) <br>
 20:00-22:00 sponsored dinner activity, TBC  <br>
 
 ### Day 2: Tuesday 10th December 2024
