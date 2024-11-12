@@ -75,8 +75,7 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 15:30-16:00	Break<br>
 16:00-17:30 Hacking<br>
 17:30-18:00 Alignment with USA<br>
-18:00-20:00	sponsored evening event activity, TBC <br>
-20:00-22:00 sponsored dinner activity, TBC  <br>
+18:00-20:00	Optional evening activity: <a href="https://www.berlin.de/en/christmas-markets/5983209-3230598-medieval-christmas-market-at-the-raw-com.en.html">Medieval Christmas Market at the RAW<a><br>
 
 ### Day 3: Wednesday 11th December 2024 
 
