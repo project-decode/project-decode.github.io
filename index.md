@@ -11,7 +11,7 @@ title: Home
 ⬤ <b> 9-11 December 2024</b> ⬤ <b>Main location: <a href="https://www.google.com/maps/place/Luisenstra%C3%9Fe+65,+10115+Berlin/@52.526864,13.376844,16z/data=!3m1!4b1!4m6!3m5!1s0x47a851ead44e366b:0xa6f8722630c14a29!8m2!3d52.526864!4d13.3794189!16s%2Fg%2F11c26_hb91?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D">Berlin</a>  ⬤ Satallite locations: <a href="https://www.google.com/maps/place/Adelaide+Health+and+Medical+Sciences+building+-+The+University+of+Adelaide/@-34.9216069,138.5885076,17z/data=!3m1!4b1!4m6!3m5!1s0x6ab0cf2f0a156467:0x26c9e3b805c2ba91!8m2!3d-34.9216069!4d138.5910825!16s%2Fg%2F11c38jy23f?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D">Adelaide</a> | <a href="https://www.google.com/maps/place/330+Brookline+Ave,+Boston,+MA+02115,+USA/@42.3397406,-71.1069138,17.23z/data=!4m6!3m5!1s0x89e3798ce72f0c05:0x6e5c764074215c8d!8m2!3d42.3398176!4d-71.1044652!16s%2Fg%2F11c2dzbql6?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D">Boston</a> | <a href="https://www.google.com/maps/place/262+Danny+Thomas+Pl,+Memphis,+TN+38105,+USA/@35.1529335,-90.0457645,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57fa69ea48bd1:0x5fb5b3586b2af13a!8m2!3d35.1529335!4d-90.0431896!16s%2Fg%2F11ldvhnn3g?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D">Memphis</a></b> ⬤ <b>Hybrid</b> ⬤
 </p>
 <p align="center">
-  <b><a href="https://forms.gle/9sR4oj9eriu9A3nc7">>> Registeration is open<<</a></b>
+  <b><a href="https://forms.gle/9sR4oj9eriu9A3nc7">>> In person registeration is closed | Online registration still possible<<</a></b>
 </p>
 
 <b>This website is currently a pre-release. The content may be inaccurate and change at any time.</b>
@@ -51,7 +51,7 @@ While the primary aim of the project will be to have fun and meet other spatial 
 
 **Contact:** for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](mailto:naveed.ishaque@bih-charite.de)
 
-**Registration:** registration is free using [this webform](https://forms.gle/9sR4oj9eriu9A3nc7) before the deadline of 17.11.24. **The number of on-site participants is limited to 24 persons.** 
+**In person registeration is closed | Online registration still possible:** registration is free using [this webform](https://forms.gle/9sR4oj9eriu9A3nc7) before the deadline of 17.11.24. **The number of on-site participants is limited to 24 persons.** 
 
 **Costs:** registration for the hackathon is free, however, you will have to pay your own travel, food and accommodation expenses. We will cover lunch and drinks during the event.
 
