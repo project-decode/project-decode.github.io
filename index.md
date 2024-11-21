@@ -26,14 +26,13 @@ Spatially resolved transcriptomics allows us to resolve gene expression in the n
 
 The focus of our BioHackathon project will be on investigating, reporting, and improving user guides for imaging-based spatial transcriptomics. The format will be a hackathon with a "bring your own project" setup. Not everyone needs to propose a project, but here are some projects that some people will be bringing with them:
 
- - user guides for data deposition
- - spatial trancriptomics data analysis best practices
- - normalization
- - (non)uniform gene expression over the tissue area 
- - segmentation-free analysis
- - comparison of segmentation algorithms
- - spatial multi-omics clustering
- - the use of spatial statistics in spatial omics
+1. [BioImageArchive spatial transcriptomics data deposition guide](https://github.com/orgs/SpatialHackathon/projects/17) (Teresa Zulueta-Coarasa, EBI/UK)
+2. [Spatial QC - gene expression uniformity over tissue](https://github.com/orgs/SpatialHackathon/projects/16) (Brian Long, Allen Brain Isnt/USE)
+3. [A Hitchhiker’s guide to a spatial data analysis](https://github.com/orgs/SpatialHackathon/projects/11) (Sara Jimenez and Francesca Drummer, Munich/DE)
+4. [Effect of segmentation & pre-processing on spatial perturbation modelling](https://github.com/orgs/SpatialHackathon/projects/12) (George Gavriliidis, CERTG/GR)
+5. [PASTA - a guide for spatial statistics application to spatial transcriptomics](https://github.com/orgs/SpatialHackathon/projects/14) (Samuel Gunz and Martin Emons, UZH/CH)
+6. [SEGGER - delving into the dark side of cell segmentation](https://github.com/orgs/SpatialHackathon/projects/15) (Elias Hydari, Heidelberg/DE)
+7. [SpatialLeiden v2 - adding multi-omics and multi-sample support](https://github.com/orgs/SpatialHackathon/projects/6) (Niklas Boetticher and Paul Kiessling, BIH/DE, Aachen/DE)
 
 While the primary aim of the project will be to have fun and meet other spatial researchers, we will endeavour to disseminate our findings. This year we plan to wrap up our progress into a [BioHackRxiv](https://osf.io/preprints/biohackrxiv) white paper.
 
