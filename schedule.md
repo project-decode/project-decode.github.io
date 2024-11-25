@@ -59,7 +59,7 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 *<a href="https://www.schapirolab.com/">Denis Schapiro</a>, Heidelberg University Hospital* <br>
 18:15-19:00 *Free time* or straight to the evening event <br>
 19:00-20:00	sponsored activity: <a href="https://www.computerspielemuseum.de/">Berlin Computer Game Museum</a> with guided tour. Karl-Marx-Allee 93a, 10243 Berlin. <br>
-20:00-22:00 sponsored dinner:  <a href="https://www.ristorante-vesuvio-berlin.de/speisekarte-weinkarte/">Vesuvio Trattoria</a>. Strausberger Pl. 8, 10243 Berlin. 2 course menu. Choice of 6 dishes. 3 drinks included.  <br>
+21:00-23:00 sponsored dinner:  <a href="https://www.ristorante-vesuvio-berlin.de/speisekarte-weinkarte/">Vesuvio Trattoria</a>. Strausberger Pl. 8, 10243 Berlin. 2 course menu. Choice of 6 dishes. 3 drinks included.  <br>
 
 ### Day 2: Tuesday 10th December 2024
 
