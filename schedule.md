@@ -20,7 +20,7 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/1_SpaceHack_3.0_intro_v1.pdf" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *Naveed Ishaque, Berin Institute of Health*<br>
-10:30-11:00 SpaceHack [Cloud](https://spacehack.bihealth.org/) and [GitHub](https://github.com/SpatialHackathon/SpaceHack2024) | 
+10:30-11:00 SpaceHack [Cloud](https://jhub.bihealth.org/) and [GitHub](https://github.com/orgs/SpatialHackathon/teams/spacehack3-0) | 
 <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/1_SpaceHack_3.0_cloud_v1.pdf" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *Sven Twardziok and Naveed Ishaque, Berin Institute of Health*<br>
