@@ -3,18 +3,14 @@ layout: page
 title: Home
 ---
 
-<b>This website is currently a pre-release. The content may be inaccurate and change at any time.</b>
-
 <img width="1239" alt="spacehack3_logo" src="https://github.com/user-attachments/assets/217a34ca-40d0-4d64-a73f-016e21c76a1a">
 
 <p align="center">
-⬤ <b> 9-11 December 2024</b> ⬤ <b>Main location: <a href="https://www.google.com/maps/place/Luisenstra%C3%9Fe+65,+10115+Berlin/@52.526864,13.376844,16z/data=!3m1!4b1!4m6!3m5!1s0x47a851ead44e366b:0xa6f8722630c14a29!8m2!3d52.526864!4d13.3794189!16s%2Fg%2F11c26_hb91?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D">Berlin</a>  ⬤ Satallite locations: <a href="https://www.google.com/maps/place/Adelaide+Health+and+Medical+Sciences+building+-+The+University+of+Adelaide/@-34.9216069,138.5885076,17z/data=!3m1!4b1!4m6!3m5!1s0x6ab0cf2f0a156467:0x26c9e3b805c2ba91!8m2!3d-34.9216069!4d138.5910825!16s%2Fg%2F11c38jy23f?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D">Adelaide</a> | <a href="https://www.google.com/maps/place/330+Brookline+Ave,+Boston,+MA+02115,+USA/@42.3397406,-71.1069138,17.23z/data=!4m6!3m5!1s0x89e3798ce72f0c05:0x6e5c764074215c8d!8m2!3d42.3398176!4d-71.1044652!16s%2Fg%2F11c2dzbql6?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D">Boston</a> | <a href="https://www.google.com/maps/place/262+Danny+Thomas+Pl,+Memphis,+TN+38105,+USA/@35.1529335,-90.0457645,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57fa69ea48bd1:0x5fb5b3586b2af13a!8m2!3d35.1529335!4d-90.0431896!16s%2Fg%2F11ldvhnn3g?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D">Memphis</a></b> ⬤ <b>Hybrid</b> ⬤
+⬤ <b> 9-11 December 2024</b> ⬤ <b>Main location: <a href="https://www.google.com/maps/place/Luisenstra%C3%9Fe+65,+10115+Berlin/@52.526864,13.376844,16z/data=!3m1!4b1!4m6!3m5!1s0x47a851ead44e366b:0xa6f8722630c14a29!8m2!3d52.526864!4d13.3794189!16s%2Fg%2F11c26_hb91?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D">Berlin</a>  ⬤ Satallite location: <a href="https://www.google.com/maps/place/262+Danny+Thomas+Pl,+Memphis,+TN+38105,+USA/@35.1529335,-90.0457645,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57fa69ea48bd1:0x5fb5b3586b2af13a!8m2!3d35.1529335!4d-90.0431896!16s%2Fg%2F11ldvhnn3g?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D">Memphis</a></b> ⬤ <b>Hybrid</b> ⬤
 </p>
 <p align="center">
-  <b><a href="https://forms.gle/9sR4oj9eriu9A3nc7">>> In person registeration is closed | Online registration still possible<<</a></b>
+  <b><a href="">>> Registration is now closed<<</a></b>
 </p>
-
-<b>This website is currently a pre-release. The content may be inaccurate and change at any time.</b>
 
 [SpaceHack is now an official a BioHackathon Germany event](https://www.denbi.de/de-nbi-events/1678-biohackathon-germany-3)!
 
@@ -34,7 +30,7 @@ The focus of our BioHackathon project will be on investigating, reporting, and i
 6. [SEGGER - delving into the dark side of cell segmentation](https://github.com/orgs/SpatialHackathon/projects/15) (Elias Hydari, Heidelberg/DE)
 7. [SpatialLeiden v2 - adding multi-omics and multi-sample support](https://github.com/orgs/SpatialHackathon/projects/6) (Niklas Boetticher and Paul Kiessling, BIH/DE, Aachen/DE)
 
-While the primary aim of the project will be to have fun and meet other spatial researchers, we will endeavour to disseminate our findings. This year we plan to wrap up our progress into a [BioHackRxiv](https://osf.io/preprints/biohackrxiv) white paper.
+While the primary aim of the project will be to have fun and meet other spatial researchers, we will endeavor to disseminate our findings. This year we plan to wrap up our progress into a [BioHackRxiv](https://osf.io/preprints/biohackrxiv) white paper.
 
 ### Organisational details
 
@@ -60,12 +56,12 @@ While the primary aim of the project will be to have fun and meet other spatial 
 1.	**Main event, Berlin and online**: [Naveed Ishaque](mailto:naveed.ishaque@bih-charite.de), Berlin Institute of Health at the Charité, Germany. Naveed leads a bioinformatics research group with a strong focus on developing and applying computation methods to better understand spatially resolved transcriptomics data.
 2.	**Memphis**: [Jasmine Plummer](mailto:jasmine.plummer@stjude.org). [Website](https://www.stjude.org/research/labs/plummer-lab.html). Address: [MS 322, St. Jude Children's Research Hospital, 262 Danny Thomas Place, Memphis, TN, 38105-3678 USA](https://www.google.com/maps/place/262+Danny+Thomas+Pl,+Memphis,+TN+38105,+USA/@35.1529335,-90.0457645,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57fa69ea48bd1:0x5fb5b3586b2af13a!8m2!3d35.1529335!4d-90.0431896!16s%2Fg%2F11ldvhnn3g?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D)
 
-**Commercial sponsors**: We are proud to say that 10x and Vizgen are all contributing data, personnel and financial support to SpaceHack 3.0!
+**Sonsors**: We are proud to say that 10x and Vizgen are all contributing data, personnel and financial support to SpaceHack 3.0! We also thank the German Federal Ministry for Education and Research (FKZ:031L0265).
 
 ### Code of Conduct
 We want the hackathon to be fun, safe and inclusive. Participants are expected to adhere to the [de.NBI Code Of Conduct](https://www.denbi.de/code-of-conduct) and the [BIH DEI statement](https://www.bihealth.org/en/about-us/gutes-miteinander/mission-statement).
 
-We will continue to update this website until the start of the hackathon
+We will continue to update this website until the start of the hackathon.
 
 ![image](https://github.com/user-attachments/assets/3ef9eda9-185c-48d9-bda6-bc9a19b444e8)
 
