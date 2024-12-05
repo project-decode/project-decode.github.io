@@ -27,22 +27,19 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 11:00-11:15 Cell segmentation from commercial platforms - the past, present & future | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*Thomas Conrad, Team lead for single-cell and spatial genomics, Berin Institute of Health*<be>
-<a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
-<a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*speaker TBC*<br>
+*Thomas Conrad, Berin Institute of Health*<br>
 11:15-11:30 10X Genomics - tech, data, project pitch | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*Speaker, Affiliation*<br>
+*Patrik Roelli, 10x Genomics*<br>
 11:30-11:45 Vizgen - tech, data, project pitch | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*Speaker, Affiliation*<br>
-11:45-12:00 Nanostring - tech, data, project pitch | 
+*Dries Vanhemelen, Vizgen*<br>
+11:45-12:00 Nanostring/Bruker - tech, data, project pitch | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
-*Speaker, Affiliation*<br>
+*Christoph Koenig, Nanostring/Bruker*<br>
 12:00-13:00	**Lunch** <br>
 13:00-13:30 Stand up and pitch your projects<br>
 13:30-14:30 Match making - join project teams and start hacking<br>
