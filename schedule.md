@@ -31,15 +31,15 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *speaker TBC*<br>
-11:15-11:30 Sponsor talk 1 - tech, data, project pitch | 
+11:15-11:30 10X Genomics - tech, data, project pitch | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *Speaker, Affiliation*<br>
-11:30-11:45 Sponsor talk 2 - tech, data, project pitch | 
+11:30-11:45 Vizgen - tech, data, project pitch | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *Speaker, Affiliation*<br>
-11:45-12:00 Sponsor talk 3 - tech, data, project pitch | 
+11:45-12:00 Nanostring - tech, data, project pitch | 
 <a href="" ><img src="images/google_slides_icon.png" alt="drawing" height="12"/></a> 
 <a href=""><img src="images/recording_icon.png" alt="drawing" height="12"/></a> |
 *Speaker, Affiliation*<br>
