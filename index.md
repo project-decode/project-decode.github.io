@@ -25,7 +25,7 @@ The focus of our BioHackathon project will be on investigating, reporting, and i
 1. [BioImageArchive spatial transcriptomics data deposition guide](https://github.com/orgs/SpatialHackathon/projects/17) (Teresa Zulueta-Coarasa, EBI/UK)
 2. [Spatial QC - gene expression uniformity over tissue](https://github.com/orgs/SpatialHackathon/projects/16) (Brian Long, Allen Brain Isnt/USE)
 3. [A Hitchhiker’s guide to a spatial data analysis](https://github.com/orgs/SpatialHackathon/projects/11) (Sara Jimenez and Francesca Drummer, Munich/DE)
-4. [Effect of segmentation & pre-processing on spatial perturbation modelling](https://github.com/orgs/SpatialHackathon/projects/12) (George Gavriliidis, CERTG/GR)
+4. [Effect of segmentation & pre-processing on spatial perturbation modelling](https://github.com/orgs/SpatialHackathon/projects/12) (George Gavriliidis, CERTH/GR)
 5. [PASTA - a guide for spatial statistics application to spatial transcriptomics](https://github.com/orgs/SpatialHackathon/projects/14) (Samuel Gunz and Martin Emons, UZH/CH)
 6. [SEGGER - delving into the dark side of cell segmentation](https://github.com/orgs/SpatialHackathon/projects/15) (Elias Hydari, Heidelberg/DE)
 7. [SpatialLeiden v2 - adding multi-omics and multi-sample support](https://github.com/orgs/SpatialHackathon/projects/6) (Niklas Boetticher and Paul Kiessling, BIH/DE, Aachen/DE)
