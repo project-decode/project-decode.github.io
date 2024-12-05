@@ -50,7 +50,7 @@ While the primary aim of the project will be to have fun and meet other spatial 
 
 **Contact:** for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](mailto:naveed.ishaque@bih-charite.de)
 
-**In person registeration is closed | Online registration still possible:** registration is free using [this webform](https://forms.gle/9sR4oj9eriu9A3nc7) before the deadline of 17.11.24. **The number of on-site participants is limited to 24 persons.** 
+**Registration is now closed**
 
 **Costs:** registration for the hackathon is free, however, you will have to pay your own travel, food and accommodation expenses. We will cover lunch and drinks during the event.
 
