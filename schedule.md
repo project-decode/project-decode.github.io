@@ -40,9 +40,9 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
  - Project 2 - SpatialCompare <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/1_SpaceHack_3.0_Brian_Long_SpatialCompare.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Brian Long, Florian Heyl* 
  - Project 3 - A Hitchhiker’s guide to a spatial data analysis, *Sara Jimenez, Francesca Drummer*
  - Project 4 - SpacePerturb <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/SpacePerturb_key.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *George Gavriilidis*
- - Project 5 - PASTA: a guide for spatial statistics application to spatial transcriptomics, * Samuel Gunz, Martin Emons*
+ - Project 5 - PASTA: a guide for spatial statistics application to spatial transcriptomics, *Samuel Gunz, Martin Emons*
  - Project 6 - SEGGER - delving into the dark side of cell segmentation, *Elyas Heidari*
- - Project 7 - SpatialLeiden v2 - adding multi-omics and multi-sample support, * Niklas Boetticher and Paul Kiessling*
+ - Project 7 - SpatialLeiden v2 - adding multi-omics and multi-sample support, *Niklas Boetticher and Paul Kiessling*
 
 13:30-14:30 Match making - join project teams and start hacking<br>
 14:30-15:00 Coffee/tea break<br>
@@ -84,9 +84,9 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
  - Project 2 - SpatialCompare, *Brian Long, Florian Heyl* 
  - Project 3 - A Hitchhiker’s guide to a spatial data analysis, *Sara Jimenez, Francesca Drummer*
  - Project 4 - SpacePerturb, *George Gavriilidis*
- - Project 5 - PASTA: a guide for spatial statistics application to spatial transcriptomics, * Samuel Gunz, Martin Emons*
+ - Project 5 - PASTA: a guide for spatial statistics application to spatial transcriptomics, *Samuel Gunz, Martin Emons*
  - Project 6 - SEGGER - delving into the dark side of cell segmentation, *Elyas Heidari*
- - Project 7 - SpatialLeiden v2 - adding multi-omics and multi-sample support, * Niklas Boetticher and Paul Kiessling*
+ - Project 7 - SpatialLeiden v2 - adding multi-omics and multi-sample support, *Niklas Boetticher and Paul Kiessling*
 
 17:00-18:00 Alignment with USA<br>
 
