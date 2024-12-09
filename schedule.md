@@ -38,7 +38,7 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 13:00-13:30 Stand up and pitch your projects<be>
  - Project 1 - BioImageArchive spatial transcriptomics data deposition guide <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/BIA_SpaceHack_project_pich_tzc.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Teresa Zulueta-Coarasa* 
  - Project 2 - SpatialCompare <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/1_SpaceHack_3.0_Brian_Long_SpatialCompare.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Brian Long, Florian Heyl* 
- - Project 3 - A Hitchhiker’s guide to a spatial data analysis, *Sara Jimenez, Francesca Drummer*
+ - Project 3 - A Hitchhiker’s guide to a spatial data analysis <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/proj3-hitchikers-guide-to-st.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Sara Jimenez, Francesca Drummer* 
  - Project 4 - SpacePerturb <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/SpacePerturb_key.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *George Gavriilidis*
  - Project 5 - PASTA: a guide for spatial statistics application to spatial transcriptomics, *Samuel Gunz, Martin Emons*
  - Project 6 - SEGGER - delving into the dark side of cell segmentation <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/segger_short_spacehack.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Elyas Heidari*
