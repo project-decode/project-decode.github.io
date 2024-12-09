@@ -26,7 +26,7 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 <a href="" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, 
 *Thomas Conrad, Berin Institute of Health*<br>
 11:15-11:30 10X Genomics - tech, data, project pitch 
-<a href="" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>,
+<a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/10xGenomics_SpaceHack_2024.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>,
 *Patrik Roelli, 10x Genomics*<br>
 11:30-11:45 Vizgen - tech, data, project pitch 
 <a href="" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>,
@@ -41,7 +41,7 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
  - Project 3 - A Hitchhiker’s guide to a spatial data analysis, *Sara Jimenez, Francesca Drummer*
  - Project 4 - SpacePerturb <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/SpacePerturb_key.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *George Gavriilidis*
  - Project 5 - PASTA: a guide for spatial statistics application to spatial transcriptomics, *Samuel Gunz, Martin Emons*
- - Project 6 - SEGGER - delving into the dark side of cell segmentation, *Elyas Heidari*
+ - Project 6 - SEGGER - delving into the dark side of cell segmentation <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/segger_short_spacehack.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Elyas Heidari*
  - Project 7 - SpatialLeiden v2 - adding multi-omics and multi-sample support, *Niklas Boetticher and Paul Kiessling*
 
 13:30-14:30 Match making - join project teams and start hacking<br>
