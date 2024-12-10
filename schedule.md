@@ -49,12 +49,12 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 13:30-14:30 Match making - join project teams and start hacking<br>
 14:30-15:00 Coffee/tea break<br>
 15:00-17:15 Hacking!<br>
-17:15-17:30 Uniformity of gene expression over tissues 
+17:15-17:30 SpatialCompare - A QC tool for investiating uniformity of gene expression over tissues 
 <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/SpaceHack3_Brian_Long_talk.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>,
 *Brian Long, Allen Inst for Brain Science*<br>
 17:30-18:00 USA alignment - quick overview of GitHub, Cloud, and projects <br>
 18:00-18:15 Talk - The European Society for Spatial Biology 
-<a href="" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>,
+<a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/SpaceHack_ESSB_presentation.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>,
 *<a href="https://www.schapirolab.com/">Denis Schapiro</a>, Heidelberg University Hospital* <br>
 18:15-20:00	sponsored activity: <a href="https://www.computerspielemuseum.de/">Berlin Computer Game Museum</a> with guided tour. Karl-Marx-Allee 93a, 10243 Berlin. <br>
 21:00-23:00 sponsored dinner:  <a href="https://www.ristorante-vesuvio-berlin.de/speisekarte-weinkarte/">Vesuvio Trattoria</a>. Strausberger Pl. 8, 10243 Berlin. 2 course menu. Choice of 6 dishes. 3 drinks included.  <br>
