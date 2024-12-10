@@ -23,7 +23,7 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/1_SpaceHack_3.0_intro_v4.pdf"><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>,
 *Sven Twardziok and Naveed Ishaque, Berin Institute of Health*<br>
 11:00-11:15 Cell segmentation from commercial platforms - the past, present & future 
-<a href="" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, 
+<a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/3_SpaceHack%202024_ThomasConrad_96dpi.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, 
 *Thomas Conrad, Berin Institute of Health*<br>
 11:15-11:30 10X Genomics - tech, data, project pitch 
 <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/10xGenomics_SpaceHack_2024.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>,
@@ -37,12 +37,14 @@ This hackathon will take place from **Monday 9th Dec - Wednesday 11th Dec 2024**
 12:00-13:00	**Lunch** <br>
 13:00-13:30 Stand up and pitch your projects<be>
  - Project 1 - BioImageArchive spatial transcriptomics data deposition guide <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/BIA_SpaceHack_project_pich_tzc.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Teresa Zulueta-Coarasa* 
- - Project 2 - SpatialCompare <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/1_SpaceHack_3.0_Brian_Long_SpatialCompare.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Brian Long, Florian Heyl* 
+ - Project 2 - FspQC <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/Project2_FspQC_Florian_Heyl.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Florian Heyl* 
  - Project 3 - A Hitchhiker’s guide to a spatial data analysis <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/proj3-hitchikers-guide-to-st.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Sara Jimenez, Francesca Drummer* 
  - Project 4 - SpacePerturb <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/SpacePerturb_key.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *George Gavriilidis*
  - Project 5 - PASTA: a guide for spatial statistics application to spatial transcriptomics, *Samuel Gunz, Martin Emons*
  - Project 6 - SEGGER - delving into the dark side of cell segmentation <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/segger_short_spacehack.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Elyas Heidari*
- - Project 7 - SpatialLeiden v2 - adding multi-omics and multi-sample support, *Niklas Boetticher and Paul Kiessling*
+ - Project 7 - SpatialLeiden v2 - adding multi-omics and multi-sample support <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/Project7_SpatialLeidenv2.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Niklas Boetticher and Paul Kiessling* 
+ - Project 8 - SpaceCompare <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/1_SpaceHack_3.0_Brian_Long_SpatialCompare.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Brian Long*
+ - Project 9 - MolKart, a NF-CORE workflow for im-SRT <a href="https://github.com/SpatialHackathon/presentations_2024/blob/main/project9_nf-core-standardization.pdf" ><img src="images/PDF_icon.png" alt="drawing" height="12"/></a>, *Sebastian Gonzalez-Tirado, Migueal A Ibarra-Arellano*
 
 13:30-14:30 Match making - join project teams and start hacking<br>
 14:30-15:00 Coffee/tea break<br>
