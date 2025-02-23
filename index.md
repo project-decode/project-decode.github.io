@@ -2,67 +2,22 @@
 layout: page
 title: Home
 ---
-
-<img width="1239" alt="spacehack3_logo" src="https://github.com/user-attachments/assets/217a34ca-40d0-4d64-a73f-016e21c76a1a">
-
-<p align="center">
-⬤ <b> 9-11 December 2024</b> ⬤ <b>Main location: <a href="https://www.google.com/maps/place/Luisenstra%C3%9Fe+65,+10115+Berlin/@52.526864,13.376844,16z/data=!3m1!4b1!4m6!3m5!1s0x47a851ead44e366b:0xa6f8722630c14a29!8m2!3d52.526864!4d13.3794189!16s%2Fg%2F11c26_hb91?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D">Berlin</a>  ⬤ Satallite location: <a href="https://www.google.com/maps/place/262+Danny+Thomas+Pl,+Memphis,+TN+38105,+USA/@35.1529335,-90.0457645,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57fa69ea48bd1:0x5fb5b3586b2af13a!8m2!3d35.1529335!4d-90.0431896!16s%2Fg%2F11ldvhnn3g?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D">Memphis</a></b> ⬤ <b>Hybrid</b> ⬤
-</p>
-<p align="center">
-  <b><a href="">>> Registration is now closed<<</a></b>
+<img width="1239" alt="decode_logo" src="https://github.com/user-attachments/assets/4a415097-9d11-4d26-a81a-27815ce96a35">
+<p>
 </p>
 
-[SpaceHack is now an official a BioHackathon Germany event](https://www.denbi.de/de-nbi-events/1678-biohackathon-germany-3)!
+<p align=center><i> ⬤ Setting the stage for future drug development efforts to reduce the impact that brain disorders have on children’s lives ⬤ </i></p> 
 
-### Abstract
+### Welcome to DECODE
 
-Spatially resolved transcriptomics allows us to resolve gene expression in the native tissue context. Imaging-based spatial transcriptomics methods offer an unrivaled spatial resolution, however clear and agreed-upon data processing and analysis guides are lacking or fragmented. SpaceHack 3.0 aims to investigate and improve on the currently available information to help users make sense of their valuable data. We will focus on **imaging-based spatial transcriptomics** methods such as MERFISH, ISS, osmFiSH, STARmap, etc (**not** Visium, GeoMX, slide-seq, stereoseq, ...).
+The human brain is one of nature’s most amazing creations—a complex network that powers our thoughts, movements, and creativity. Yet, when the brain develops differently than expected, it can lead to serious disorders in children that affect their everyday lives. These conditions are often linked to subtle changes in brain structure and genetic makeup, and until now, they have remained a mystery to scientists.
 
-### Project focus
+### Our Mission
 
-The focus of our BioHackathon project will be on investigating, reporting, and improving user guides for imaging-based spatial transcriptomics. The format will be a hackathon with a "bring your own project" setup. Not everyone needs to propose a project, but here are some projects that some people will be bringing with them:
+DECODE (Dissecting Etiology of Cerebellar Origins of Disorders in Early Childhood) is a groundbreaking project that uses the latest advances in molecular profiling and genetic research to uncover the origins of these developmental disorders. Our work lays the foundation for future treatments and drug development, offering hope for a better quality of life for affected children.
 
-1. [BioImageArchive spatial transcriptomics data deposition guide](https://github.com/orgs/SpatialHackathon/projects/17) (Teresa Zulueta-Coarasa, EBI/UK)
-2. [Spatial QC - gene expression uniformity over tissue](https://github.com/orgs/SpatialHackathon/projects/16) (Brian Long, Allen Brain Isnt/USE)
-3. [A Hitchhiker’s guide to a spatial data analysis](https://github.com/orgs/SpatialHackathon/projects/11) (Sara Jimenez and Francesca Drummer, Munich/DE)
-4. [Effect of segmentation & pre-processing on spatial perturbation modelling](https://github.com/orgs/SpatialHackathon/projects/12) (George Gavriliidis, CERTH/GR)
-5. [PASTA - a guide for spatial statistics application to spatial transcriptomics](https://github.com/orgs/SpatialHackathon/projects/14) (Samuel Gunz and Martin Emons, UZH/CH)
-6. [SEGGER - delving into the dark side of cell segmentation](https://github.com/orgs/SpatialHackathon/projects/15) (Elias Hydari, Heidelberg/DE)
-7. [SpatialLeiden v2 - adding multi-omics and multi-sample support](https://github.com/orgs/SpatialHackathon/projects/6) (Niklas Boetticher and Paul Kiessling, BIH/DE, Aachen/DE)
+### A Global Collaboration
 
-While the primary aim of the project will be to have fun and meet other spatial researchers, we will endeavor to disseminate our findings. This year we plan to wrap up our progress into a [BioHackRxiv](https://osf.io/preprints/biohackrxiv) white paper.
+This project is a proud collaboration between experts in computational data analysis in Germany and developmental neuroscience in Korea. By combining the unique strengths of both teams—led by early career researcher Naveed Ishaque in Germany and Sohyon Lee in South Korea—we are taking innovative steps to bridge critical gaps in our understanding of brain development. Although DECODE is in its early stages, we are actively seeking support to help us transform these insights into real-world solutions that reduce the burden of childhood brain disorders.
 
-### Organisational details
-
-**Target audience:** PhD/postdoc-level bioinformaticians familiar with spatial omics analysis. We would strongly encourage those with prior experience in spatial data analysis to apply! **This will not be a tutorial, so be ready to contribute ;p.**
-
-**Dates:** Monday 9th - Wednesday 11th December 2024. The event precedes the [European Society for Spatial Biology's inaugural conference](https://spatialbiologysociety.eu/) on 12-13 Dec. 
-
-**Location:** [Rahel Hirsch Center, 65 Luissenstrasse, 10117 Berlin, Germany](https://www.google.com/maps/place/Luisenstra%C3%9Fe+65,+10115+Berlin/@52.526864,13.376844,16z/data=!3m1!4b1!4m6!3m5!1s0x47a851ead44e366b:0xa6f8722630c14a29!8m2!3d52.526864!4d13.3794189!16s%2Fg%2F11c26_hb91?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D). The venue for the SpaceHack is located in the Rahel Hirsch Center (Berlin Institute of Health) right next to the main Charite Hospital building.
-
-**Transport:** GoogleMaps offers very reasonable suggestions in Berlin. Some suggestions: 
- - Airport: BER Berlin Brandenburg Aiport. There are trains (FEX/RE8/RB23/...) going to Berlin Hauptbahnhof (Berlin Central Station) every 20 minutes. Tickets can be downloaded via the [BVG app](https://www.bvg.de/de/abos-und-tickets/alle-apps/fahrinfo-app) and cost ~3-4 Euro for a Berlin ABC ticket.
- - Train station: Berlin Hauptbahnhof (Berlin Central Station) and walk for 12 minutes, or take the tram M5/M8/M10 to "Invalidenpark"
-
-**Contact:** for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](mailto:naveed.ishaque@bih-charite.de)
-
-**Registration is now closed**
-
-**Costs:** registration for the hackathon is free, however, you will have to pay your own travel, food and accommodation expenses. We will cover lunch and drinks during the event.
-
-**Accommodation:** please check the usual hotel booking portals. [AO Hostels](https://www.aohostels.com/de/berlin/berlin-hauptbahnhof/) is a cheap option closeby, but there are many options in the vicinity.
-
-**Organizing committee**: 
-1.	**Main event, Berlin and online**: [Naveed Ishaque](mailto:naveed.ishaque@bih-charite.de), Berlin Institute of Health at the Charité, Germany. Naveed leads a bioinformatics research group with a strong focus on developing and applying computation methods to better understand spatially resolved transcriptomics data.
-2.	**Memphis**: [Jasmine Plummer](mailto:jasmine.plummer@stjude.org). [Website](https://www.stjude.org/research/labs/plummer-lab.html). Address: [MS 322, St. Jude Children's Research Hospital, 262 Danny Thomas Place, Memphis, TN, 38105-3678 USA](https://www.google.com/maps/place/262+Danny+Thomas+Pl,+Memphis,+TN+38105,+USA/@35.1529335,-90.0457645,17z/data=!3m1!4b1!4m6!3m5!1s0x87d57fa69ea48bd1:0x5fb5b3586b2af13a!8m2!3d35.1529335!4d-90.0431896!16s%2Fg%2F11ldvhnn3g?entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D)
-
-**Sonsors**: We are proud to say that 10x and Vizgen are all contributing data, personnel and financial support to SpaceHack 3.0! We also thank the German Federal Ministry for Education and Research (FKZ:031L0265).
-
-### Code of Conduct
-We want the hackathon to be fun, safe and inclusive. Participants are expected to adhere to the [de.NBI Code Of Conduct](https://www.denbi.de/code-of-conduct) and the [BIH DEI statement](https://www.bihealth.org/en/about-us/gutes-miteinander/mission-statement).
-
-We will continue to update this website until the start of the hackathon.
-
-![image](https://github.com/user-attachments/assets/3ef9eda9-185c-48d9-bda6-bc9a19b444e8)
-
-
+<p align=center><i> ⬤ Join us on our journey to decode the secrets of the developing brain and build a healthier future for children everywhere ⬤ </i></p>
