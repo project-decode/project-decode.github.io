@@ -8,7 +8,7 @@ title: Team
 DECODE (Dissecting Etiology of Cerebellar Origins of Disorders in Early Childhood) is a collaborative initiative uniting experts from Germany and South Korea to advance our understanding of early childhood brain development disorders.
 
 ### Project Leads
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0" class="tab">
   <tr>
     <th align=left><b>Professor Sohyon Lee</b></th>
     <th> </th>
@@ -26,6 +26,12 @@ DECODE (Dissecting Etiology of Cerebellar Origins of Disorders in Early Childhoo
     <td><img width="450" alt="Dr Naveed Ishaque" src="https://github.com/user-attachments/assets/84028b5f-45c1-4b14-86d2-7ac0c94d2fd8"></td>
   </tr>
 </table>
+
+<style>
+.tab {border-collapse:collapse;}
+.tab .first {border-bottom:1px solid #EEE;}
+.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
+</style>
 
 ### Join Us
 
