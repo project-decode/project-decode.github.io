@@ -1,10 +1,9 @@
 theme: minima
 
-title: ELIXIR-Germany SpaceHack
+title: DECODE
 show_excerpts: false
 
 header_pages:
   - index.md
-  - schedule.md
+  - team.md
   - contact.md
-  - past.md
