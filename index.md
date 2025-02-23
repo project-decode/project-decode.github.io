@@ -10,11 +10,11 @@ title: Home
 
 ### Welcome to DECODE
 
-The human brain is one of nature’s most amazing creations—a complex network that powers our thoughts, movements, and creativity. Yet, when the brain develops differently than expected, it can lead to serious disorders in children that affect their everyday lives. These conditions are often linked to subtle changes in brain structure and genetic makeup, and until now, they have remained a mystery to scientists.
+The human brain is one of nature’s most amazing creations - a complex network that powers our thoughts, movements, and creativity. Yet, when the brain develops differently than expected, it can lead to serious disorders in children that affect their everyday lives. These conditions are often linked to subtle changes in brain structure and genetic makeup, and until now, they have remained a mystery to scientists.
 
 ### Our Mission
 
-DECODE (Dissecting Etiology of Cerebellar Origins of Disorders in Early Childhood) is a groundbreaking project that uses the latest advances in molecular profiling and genetic research to uncover the origins of these developmental disorders. Our work lays the foundation for future treatments and drug development, offering hope for a better quality of life for affected children.
+DECODE (Dissecting Etiology of Cerebellar Origins of Disorders in Early childhood) is a groundbreaking project that uses the latest advances in molecular profiling and genetic research to uncover the origins of these developmental disorders. Our work lays the foundation for future treatments and drug development, offering hope for a better quality of life for affected children.
 
 ### A Global Collaboration
 
