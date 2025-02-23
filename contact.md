@@ -3,8 +3,8 @@ layout: page
 title: Contact
 ---
 
-For more information email [Naveed Ishaque](mailto:naveed.ishaque@bih-charite.de)
+The DECODE project is co-ordinated by [Prof Sohyon Lee](sohyonlee@kaist.ac.kr) and [Dr Naveed Ishaque](mailto:naveed.ishaque@bih-charite.de)
 
 **Organizers**: 
-1.	[Naveed Ishaque](mailto:Naveed.ishaque@bih-charite.de), Berlin Institute of Health at the Charité, Germany. Naveed leads a bioinformatics research group with a strong focus on developing and applying computation methods to better understand spatially resolved transcriptomics data.<br>
-2.	[Jasmine Plummer](mailto:jasmine.plummer@stjude.org), St Judes, Memphis, USA. Director of Center for Spatial OMICs and Developmental Neurobiology. Jasmine/s lab uses multi-omics approaches to examine the genetic risk of cancer. Co-founder of [GESTALT](https://globalspatial.org/).
+1. [Prof Sohyon Lee](sohyonlee@kaist.ac.kr), Korea Advanced Institute of Science and Technology (KAIST), Korea. Sohyon leads the Translational Molecular Phenomics Lab with a strong focus on developing and applying experimental methods to decipher critical elements pertaining to cell fate decisions in normal and diseased development of the human brain.<br> 
+2.	[aveed Ishaque](mailto:Naveed.ishaque@bih-charite.de), Berlin Institute of Health (BIH) at the Charité, Germany. Naveed leads the Computational Oncology with a strong focus on developing and applying computation methods to better understand single-cell and spatially resolved transcriptomics data.<br>
